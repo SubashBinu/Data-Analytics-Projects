@@ -1,5 +1,5 @@
 ### Data-Analytics-Projects
-[Dashboard File Adventureworks.xlsm](Adventureworks.xlsm)
+[Dashboard File Adventureworks.xlsm](AdventureworksDashboard)
 
 # Adventure Works Data Analytics Dashboard
 ## 📌 Project Overview
