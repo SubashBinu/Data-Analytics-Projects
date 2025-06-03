@@ -1,5 +1,5 @@
 ### Data-Analytics-Projects
-[Dashboard File Link](AdventureworksDashboard)
+[Dashboard File Link](AdventureWorksDashboard)
 
 # Adventure Works Data Analytics Dashboard
 ## 📌 Project Overview
