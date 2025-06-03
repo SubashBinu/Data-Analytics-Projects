@@ -6,7 +6,7 @@
 
 - **This project analyzes sales and customer data for Adventure Works, providing key insights into revenue distribution, customer behavior, and order trends. The dashboard enables strategic decision-making by highlighting customer spending patterns, occupations, and income levels using Excel.**
   
-### 🚀 Project Highlights [Dashboard](Adventureworks.xlsm) <a href="https://github.com/SubashBinu/Data-Analytics-Projects/blob/1b1d6aa311d9a2c33ca9f2fa73bacdd410f3e7fb/AdventureWorks.xlsm"> (Dashboard link)</a>
+### 🚀 Project Highlights 
 
   -  **Data Import & Transformation**
       -  Loaded raw data into Excel from multiple files using Power Query.
@@ -71,10 +71,9 @@
   -  DAX (Advanced Calculations)
   -  VBA (Automation for interactive dashboards)
 
-## 📂 [Dataset List](AdventureWorks Raw Data/)
+## 📂 Dataset List Used 
 
-- The dataset from list of csv files: <a href="https://github.com/SubashBinu/Data-Analytics-Projects/tree/c113a47efa680ee73e516215ceff324d3c56ebb9/AdventureWorks%20Raw%20"> Link to Data Set</a>
-[Raw Dataset Link](Adventureworks_Raw_Data/)
+- The dataset from list of csv files: [Dataset Link](AdventureworksRawData/)
   -  Product Categories Lookup
   -  Product Subcategories Lookup
   -  Product Lookup
