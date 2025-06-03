@@ -4,8 +4,9 @@
 ## 📌 Project Overview
 
 - **This project analyzes sales and customer data for Adventure Works, providing key insights into revenue distribution, customer behavior, and order trends. The dashboard enables strategic decision-making by highlighting customer spending patterns, occupations, and income levels using Excel.**
+  
+### 🚀 Project Highlights <a href="https://github.com/SubashBinu/Data-Analytics-Projects/blob/1b1d6aa311d9a2c33ca9f2fa73bacdd410f3e7fb/AdventureWorks.xlsm"> (Dashboard link)</a>
 
-### 🚀 Project Highlights
   -  **Data Import & Transformation**
       -  Loaded raw data into Excel from multiple files using Power Query.
       -  Cleaned and structured data using Power Query.
@@ -32,6 +33,8 @@
       -  Used trendlines & forecasting models to predict future revenue growth.
 
 ## 🔍 Insights from the Dashboard
+
+![ExeDB](Dashboard-Image/ExeDB) ![ExeDB](Dashboard-Image/ProDB) ![ExeDB](Dashboard-Image/CustDB)
 
 1. **Revenue Per Customer:** 
     -  The average customer generates $1,430.56 in revenue.
@@ -67,9 +70,9 @@
   -  DAX (Advanced Calculations)
   -  VBA (Automation for interactive dashboards)
 
-## 📂 Data Source
+## 📂 DataData Source
 
-- The dataset from list of csv files:
+- The dataset from list of csv files: <a href="https://github.com/SubashBinu/Data-Analytics-Projects/tree/c113a47efa680ee73e516215ceff324d3c56ebb9/AdventureWorks%20Raw%20"> Link to Data Set</a>
   -  Product Categories Lookup
   -  Product Subcategories Lookup
   -  Product Lookup
@@ -105,6 +108,11 @@
 
     -  Save reports as PDFs or images for business presentations.
     -  Use dashboard insights for data-driven decisions in marketing and strategy.
+
+-  Finding Pivot Tables & Analysis
+    -  Go to the Sheet Tabs at the bottom of Excel.
+    -  Right-click on any sheet name and select Unhide.
+    -  Choose the sheets containing raw data, calculated fields, or pivot tables, then click OK.
 
 ## 🛠 Advanced Features
   -  Dynamic Dashboard Cards: Displays key metrics like revenue and orders interactively.
