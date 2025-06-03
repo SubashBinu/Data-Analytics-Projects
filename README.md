@@ -73,7 +73,7 @@
 
 ## 📂 Dataset List Used 
 
-- The dataset from list of csv files: [Dataset Link](AdventureworksRawData/)
+- The dataset from list of csv files: [Dataset Link](AdventureWorksRawData)
   -  Product Categories Lookup
   -  Product Subcategories Lookup
   -  Product Lookup
